@@ -10,3 +10,7 @@ age-distance and ticket selected
 Chinese zodiac signs calculator with switch case structure 
 chinese zodiac signs: birthday according to the remainder divided by 12
 
+Leap year calculator with if else structure
+if year /100=0 and year/400 =0 its leap year
+aLso year / 4 = 0 its leap year
+
