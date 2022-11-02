@@ -7,7 +7,7 @@ public class Main {
         //Scanner
         Scanner sc = new Scanner(System.in);
 
-        //numbers sum of evens and numbers multiple of 4
+        //all numbers sum of evens and all numbers multiple of 4
         do {
             System.out.print("Please enter a number: ");
             n = sc.nextInt();
