@@ -15,7 +15,7 @@ public class Main {
                 total += n;
             }
 
-        }  while(n>0);
+        }  while(n%2==0);
         //print result
         System.out.print("Total numbers: "+ total);
 
