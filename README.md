@@ -20,4 +20,8 @@ aLso year / 4 = 0 its leap year
 finding the largest and the smallest numbers by entered numbers
 basically max and min value of numbers
 
+-----findingPerfectNumber-----
+finding perfect number
+"Perfect numbers” are equal to the sum of their “proper” divisors (positive integers that divide a number evenly, not counting itself).
+
 
