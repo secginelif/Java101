@@ -18,5 +18,6 @@ aLso year / 4 = 0 its leap year
 
 -----valuMaxMin-----
 finding the largest and the smallest numbers by entered numbers
-basicly max and min value of numbers
+basically max and min value of numbers
+-----
 
