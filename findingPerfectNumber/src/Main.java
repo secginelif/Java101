@@ -11,7 +11,7 @@ public class Main {
         number = sc.nextInt();
 
         //“Perfect numbers” are equal to the sum of their “proper” divisors
-        // (positive integers that divide a number evenly, not counting itself).
+        // positive integers that divide a number evenly, not counting itself
         // example => 6 = 3 + 2 + 1, and 28 = 14 + 7 + 4 + 2 + 1.
 
         for(int i=1;i<number;i++){
