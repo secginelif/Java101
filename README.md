@@ -16,7 +16,7 @@ Leap year calculator with if else structure
 if year /100=0 and year/400 =0 its leap year
 aLso year / 4 = 0 its leap year
 
------valuMaxMin-----
+-----valueMaxMin-----
 finding the largest and the smallest numbers by entered numbers
 basically max and min value of numbers
 
