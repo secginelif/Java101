@@ -1,6 +1,8 @@
+//www.patika.dev
+
 public class Main {
     public static void main(String[] args) {
-        // 1 to 100 numbers => finding prime numbers in 100
+        // 1 to 100 numbers => finding prime numbers between 1 and 100
         for(int i=2; i<=100; i++){
             boolean isPrime = true;
             for(int j=2; j<i; j++){
