@@ -59,7 +59,10 @@ pattern of alphabets B using * and to create a user-defined sized alphabet's pat
 Program that takes the size of the array and the elements of the array from the user and sorts the elements in the array from smallest to largest
 
 
-
+----matrixTranspose----
+What is the transpose of a matrix?
+The transpose of a matrix is found by interchanging its rows into columns or columns into rows.
+Converting rows of a matrix into columns and columns of a matrix into row is called transpose of a matrix.
 
 
 
