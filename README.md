@@ -23,5 +23,30 @@ basically max and min value of numbers
 -----findingPerfectNumber-----
 finding perfect number
 "Perfect numbers” are equal to the sum of their “proper” divisors (positive integers that divide a number evenly, not counting itself).
+----finding min and max numbers----
+finding min and max sie numbers by entered of numbers with methods in addition using for and if-else methods
+
+----finding perfect numbers----
+In number theory, a perfect number is a positive integer that is equal to the sum of its positive divisors, excluding the number itself. For instance, 6 has divisors 1, 2 and 3 (excluding itself), and 1 + 2 + 3 = 6, so 6 is a perfect number.
+in this project using loops and methods.
+
+----invertedTriangle----
+using space and stars by created inverted triangle with for methods
+
+
+----findingPrimeNumbers----
+finding prime numbers between 1 and 100 with 
+A PRIME NUMBER  is any number that is divisible by 1 and itself only. Certain examples of prime numbers are 2, 3, 5, 7, 11 etc. However, 1 is neither a prime nor composite number.
+1- A prime number is a number which has no positive divisors other than 1 and itself.
+2- finding the given number is prime or not using the static method primeCal(int num). For loop iterates from i=0 to i=given number, if the remainder of number/i =0 then increases the count by 1. After all the iterations, if count=2, then that number is a prime number.
+
+----fibonacciNumbersLoop----
+In fibonacci series, next number is the sum of previous two numbers for example 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55 etc. The first two numbers of fibonacci series are 0 and 1.
+
+
+
+
+
+
 
 
