@@ -55,6 +55,9 @@ Creational Design Patterns address this issue by decoupling the client entirely 
 ----bLetterStars----
 pattern of alphabets B using * and to create a user-defined sized alphabet's pattern. Number of lines for the alphabet's pattern
 
+----sortsTheElements----
+Program that takes the size of the array and the elements of the array from the user and sorts the elements in the array from smallest to largest
+
 
 
 
