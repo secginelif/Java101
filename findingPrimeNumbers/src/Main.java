@@ -1,3 +1,5 @@
+//www.patika.dev
+
 public class Main {
     public static void main(String[] args) {
         // 1 to 100 numbers => finding prime numbers in 100
