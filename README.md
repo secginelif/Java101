@@ -44,6 +44,15 @@ A PRIME NUMBER  is any number that is divisible by 1 and itself only. Certain ex
 In fibonacci series, next number is the sum of previous two numbers for example 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55 etc. The first two numbers of fibonacci series are 0 and 1.
 
 
+----recursivePower----
+A recursive function is a function that calls itself multiple times until a particular condition is satisfied.
+
+----createMethodbyPattern----
+Creational Design Patterns are concerned with the way in which objects are created.
+Creational Design Patterns address this issue by decoupling the client entirely from the actual initialization process.
+
+
+
 
 
 
