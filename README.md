@@ -52,6 +52,11 @@ Creational Design Patterns are concerned with the way in which objects are creat
 Creational Design Patterns address this issue by decoupling the client entirely from the actual initialization process.
 
 
+----bLetterStars----
+pattern of alphabets B using * and to create a user-defined sized alphabet's pattern. Number of lines for the alphabet's pattern
+
+
+
 
 
 
