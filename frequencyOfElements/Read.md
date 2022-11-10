@@ -1,6 +1,6 @@
 
 
-<b> finding the frequency of each element in the array </b>
+<b> Finding the frequency of each element in the array </b>
 
 Objective: Java Program to find the Frequency of each element in the Array.
 
